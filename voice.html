@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Read Webpage Content Aloud</title>
+</head>
+<body>
+    <h1>Read Webpage Content Aloud</h1>
+    <button id="but" onclick="readWebsite()">Read Website</button>
+
+    <script >
+        function readWebsite() {
+    const text = document.body.innerText;
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'en-US'; // Change this to the desired language code
+    window.speechSynthesis.speak(utterance);
+}
+
+    </script>
+</body>
+</html>
