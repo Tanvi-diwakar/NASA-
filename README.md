@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/flogo.png" width="300" alt="Climate Change Cronicles Logo">
+  <img src=""C:\Users\Tanvi\Downloads\Desktop\nasa\logo.png"" width="300" alt="Climate Change Cronicles Logo">
 </p>
 
 <h1 align="center">🌍 C3 – Climate Change Cronicles</h1>
