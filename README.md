@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=""C:\Users\Tanvi\Downloads\Desktop\nasa\logo.png"" width="300" alt="Climate Change Cronicles Logo">
-</p>
-
 <h1 align="center">🌍 C3 – Climate Change Cronicles</h1>
 <h3 align="center">Exploring Climate Change with Space-based Data</h3>
 
@@ -15,7 +11,7 @@
 
 ## 📌 Problem Statement
 
-> *[Replace this with your selected NASA Space Apps 2025 challenge title and summary]*  
+> 
 We aim to address the global challenge of climate change by analyzing space-based data and providing accessible insights for the public and policymakers.
 
 ---
@@ -27,15 +23,6 @@ We aim to address the global challenge of climate change by analyzing space-base
 - 🌐 Global impact heatmaps
 - 📖 Interactive storytelling (scroll-based narratives)
 - 🎙️ Voice-assisted insights (Gemma 3n / offline-first AI)
-
----
-
-## 🎥 Demo & Screenshots
-
-- 📽️ [Demo Video Link](#)
-- 📸 Screenshots:
-  ![Dashboard Preview](assets/screenshot1.png)
-  ![Map Interface](assets/screenshot2.png)
 
 ---
 
